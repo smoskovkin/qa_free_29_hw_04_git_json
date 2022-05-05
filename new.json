@@ -1,5 +1,5 @@
 {
-  "person": {
+  "persons": {
     "firstname": "Ivan",
     "lastname": "Ivanov",
     "age": 23,
