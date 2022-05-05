@@ -1,16 +1,14 @@
 {
-  "skills": {
-    "skills_to_be_studied": [
-      "Linux terminal",
-      "JavaScript",
-      "Python",
-      "Postman",
-      "Charles",
-      "Fiddler",
-      "SQL",
-      "JSON, XML, CSV",
-      "GIT",
-      "DevTools"
-    ]
-  }
+  "skills_to_be_studied": [
+    "Linux terminal",
+    "JavaScript",
+    "Python",
+    "Postman",
+    "Charles",
+    "Fiddler",
+    "SQL",
+    "JSON, XML, CSV",
+    "GIT",
+    "DevTools"
+  ]
 }
